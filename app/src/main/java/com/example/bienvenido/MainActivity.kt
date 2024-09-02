@@ -106,8 +106,4 @@ fun DefaultPreview() {
     }
 }
 
-<<<<<<< HEAD
 //Commit por Marco Rios
-=======
-//Comit por Antonio Rios
->>>>>>> c82282b217fb60d4d1de5b242ef4d01f98b0fb96
